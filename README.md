@@ -1,1 +1,2 @@
-# Capstone-Project1
+# Capstone-Project
+# Data Analytics - Sales Insights Using PowerBi
